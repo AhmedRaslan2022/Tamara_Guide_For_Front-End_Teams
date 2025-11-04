@@ -4,7 +4,7 @@
 
  
 
-## 1. Implement Tamara Widget View (Promotional Messaging)
+## 1. Implement Tamara Widget View 
 
 The Tamara widget view is crucial for informing customers about the "Pay in X" option and its benefits, usually displayed on the Product Details Page or, if unavailable, on the Payment Checkout Page.
 
